@@ -1,0 +1,702 @@
+[
+    {
+      "latitude": 51.522266,
+      "longitude": -0.087132,
+      "name": "Restaurant Spot 1",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.512659,
+      "longitude": -0.081331,
+      "name": "Restaurant Spot 2",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.551216,
+      "longitude": -0.072734,
+      "name": "Shopping Spot 3",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.558405,
+      "longitude": -0.127559,
+      "name": "Shopping Spot 4",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.530346,
+      "longitude": -0.134798,
+      "name": "Shopping Spot 5",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.495105,
+      "longitude": -0.080288,
+      "name": "Cycle Spot 6",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.525566,
+      "longitude": -0.117577,
+      "name": "Shopping Spot 7",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.462702,
+      "longitude": -0.125389,
+      "name": "Restaurant Spot 8",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.505829,
+      "longitude": -0.099304,
+      "name": "Shopping Spot 9",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.488459,
+      "longitude": -0.162743,
+      "name": "Restaurant Spot 10",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.507172,
+      "longitude": -0.088314,
+      "name": "Restaurant Spot 11",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.470087,
+      "longitude": -0.102848,
+      "name": "Restaurant Spot 12",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.556719,
+      "longitude": -0.071366,
+      "name": "Shopping Spot 13",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.473463,
+      "longitude": -0.129019,
+      "name": "Cycle Spot 14",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.542295,
+      "longitude": -0.159218,
+      "name": "Shopping Spot 15",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.504535,
+      "longitude": -0.116734,
+      "name": "Shopping Spot 16",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.48828,
+      "longitude": -0.113757,
+      "name": "Restaurant Spot 17",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.49248,
+      "longitude": -0.135473,
+      "name": "Shopping Spot 18",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.558084,
+      "longitude": -0.112298,
+      "name": "Shopping Spot 19",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.534466,
+      "longitude": -0.158272,
+      "name": "Shopping Spot 20",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.493461,
+      "longitude": -0.084202,
+      "name": "Cycle Spot 21",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.501524,
+      "longitude": -0.108136,
+      "name": "Shopping Spot 22",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.477663,
+      "longitude": -0.105582,
+      "name": "Restaurant Spot 23",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.50534,
+      "longitude": -0.128986,
+      "name": "Cycle Spot 24",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.475364,
+      "longitude": -0.154173,
+      "name": "Cycle Spot 25",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.4933,
+      "longitude": -0.075143,
+      "name": "Shopping Spot 26",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.533645,
+      "longitude": -0.167578,
+      "name": "Cycle Spot 27",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.535225,
+      "longitude": -0.091379,
+      "name": "Cycle Spot 28",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.548028,
+      "longitude": -0.106166,
+      "name": "Shopping Spot 29",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.493737,
+      "longitude": -0.071661,
+      "name": "Restaurant Spot 30",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.516976,
+      "longitude": -0.069205,
+      "name": "Cycle Spot 31",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.482024,
+      "longitude": -0.070328,
+      "name": "Cycle Spot 32",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.558778,
+      "longitude": -0.157093,
+      "name": "Shopping Spot 33",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.535438,
+      "longitude": -0.155546,
+      "name": "Cycle Spot 34",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.469933,
+      "longitude": -0.126435,
+      "name": "Cycle Spot 35",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.485386,
+      "longitude": -0.105907,
+      "name": "Restaurant Spot 36",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.507119,
+      "longitude": -0.149554,
+      "name": "Shopping Spot 37",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.46455,
+      "longitude": -0.086186,
+      "name": "Restaurant Spot 38",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.497046,
+      "longitude": -0.121504,
+      "name": "Shopping Spot 39",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.499036,
+      "longitude": -0.114235,
+      "name": "Cycle Spot 40",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.524803,
+      "longitude": -0.072974,
+      "name": "Restaurant Spot 41",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.520563,
+      "longitude": -0.115183,
+      "name": "Cycle Spot 42",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.547428,
+      "longitude": -0.083506,
+      "name": "Cycle Spot 43",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.483795,
+      "longitude": -0.154162,
+      "name": "Cycle Spot 44",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.515515,
+      "longitude": -0.077768,
+      "name": "Shopping Spot 45",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.517878,
+      "longitude": -0.089809,
+      "name": "Restaurant Spot 46",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.555722,
+      "longitude": -0.085154,
+      "name": "Restaurant Spot 47",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.533445,
+      "longitude": -0.087339,
+      "name": "Restaurant Spot 48",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.518057,
+      "longitude": -0.152633,
+      "name": "Cycle Spot 49",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.552775,
+      "longitude": -0.118445,
+      "name": "Restaurant Spot 50",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.477779,
+      "longitude": -0.094557,
+      "name": "Restaurant Spot 51",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.495357,
+      "longitude": -0.102221,
+      "name": "Shopping Spot 52",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.545732,
+      "longitude": -0.107912,
+      "name": "Restaurant Spot 53",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.492887,
+      "longitude": -0.105961,
+      "name": "Cycle Spot 54",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.493997,
+      "longitude": -0.083781,
+      "name": "Restaurant Spot 55",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.468714,
+      "longitude": -0.105779,
+      "name": "Shopping Spot 56",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.524297,
+      "longitude": -0.121325,
+      "name": "Cycle Spot 57",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.538177,
+      "longitude": -0.104463,
+      "name": "Restaurant Spot 58",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.526342,
+      "longitude": -0.132006,
+      "name": "Restaurant Spot 59",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.491449,
+      "longitude": -0.09968,
+      "name": "Cycle Spot 60",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.51944,
+      "longitude": -0.12858,
+      "name": "Restaurant Spot 61",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.545845,
+      "longitude": -0.144156,
+      "name": "Restaurant Spot 62",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.54445,
+      "longitude": -0.074843,
+      "name": "Cycle Spot 63",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.491262,
+      "longitude": -0.07665,
+      "name": "Restaurant Spot 64",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.505056,
+      "longitude": -0.089842,
+      "name": "Cycle Spot 65",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.521926,
+      "longitude": -0.078566,
+      "name": "Shopping Spot 66",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.500674,
+      "longitude": -0.150601,
+      "name": "Cycle Spot 67",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.465365,
+      "longitude": -0.140042,
+      "name": "Shopping Spot 68",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.512575,
+      "longitude": -0.094884,
+      "name": "Restaurant Spot 69",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.548644,
+      "longitude": -0.082936,
+      "name": "Restaurant Spot 70",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.528445,
+      "longitude": -0.101608,
+      "name": "Cycle Spot 71",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.511987,
+      "longitude": -0.075518,
+      "name": "Restaurant Spot 72",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.486674,
+      "longitude": -0.111294,
+      "name": "Restaurant Spot 73",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.547861,
+      "longitude": -0.14564,
+      "name": "Cycle Spot 74",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.535572,
+      "longitude": -0.162264,
+      "name": "Cycle Spot 75",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.491689,
+      "longitude": -0.151882,
+      "name": "Cycle Spot 76",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.494428,
+      "longitude": -0.12926,
+      "name": "Shopping Spot 77",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.528178,
+      "longitude": -0.100157,
+      "name": "Cycle Spot 78",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.527033,
+      "longitude": -0.084051,
+      "name": "Shopping Spot 79",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.4833,
+      "longitude": -0.128084,
+      "name": "Cycle Spot 80",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.494503,
+      "longitude": -0.090651,
+      "name": "Shopping Spot 81",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.54817,
+      "longitude": -0.080334,
+      "name": "Shopping Spot 82",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.465299,
+      "longitude": -0.166215,
+      "name": "Restaurant Spot 83",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.523672,
+      "longitude": -0.151296,
+      "name": "Cycle Spot 84",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.52108,
+      "longitude": -0.112776,
+      "name": "Restaurant Spot 85",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.503576,
+      "longitude": -0.156334,
+      "name": "Cycle Spot 86",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.477521,
+      "longitude": -0.125834,
+      "name": "Cycle Spot 87",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.515957,
+      "longitude": -0.167148,
+      "name": "Restaurant Spot 88",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.467807,
+      "longitude": -0.165326,
+      "name": "Shopping Spot 89",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.493424,
+      "longitude": -0.137492,
+      "name": "Cycle Spot 90",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.465581,
+      "longitude": -0.075358,
+      "name": "Restaurant Spot 91",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.548173,
+      "longitude": -0.114106,
+      "name": "Shopping Spot 92",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.461415,
+      "longitude": -0.07452,
+      "name": "Cycle Spot 93",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.471028,
+      "longitude": -0.15565,
+      "name": "Cycle Spot 94",
+      "description": "Hire a bike and explore the city",
+      "markerType": "cycle"
+    },
+    {
+      "latitude": 51.537051,
+      "longitude": -0.104138,
+      "name": "Restaurant Spot 95",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.520392,
+      "longitude": -0.077342,
+      "name": "Restaurant Spot 96",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.479108,
+      "longitude": -0.147536,
+      "name": "Restaurant Spot 97",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    },
+    {
+      "latitude": 51.482613,
+      "longitude": -0.087204,
+      "name": "Shopping Spot 98",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.526431,
+      "longitude": -0.139139,
+      "name": "Shopping Spot 99",
+      "description": "Explore a variety of shops and markets",
+      "markerType": "shopping"
+    },
+    {
+      "latitude": 51.473614,
+      "longitude": -0.101062,
+      "name": "Restaurant Spot 100",
+      "description": "Enjoy a delightful meal at this location",
+      "markerType": "restaurant"
+    }
+  ]

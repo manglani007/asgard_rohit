@@ -26,7 +26,9 @@ class MapMarker extends Equatable{
 enum MarkerType{
   cycle(Icons.pedal_bike,Colors.blue),
   shopping(Icons.shopping_cart,Colors.green),
-  restaurant(Icons.food_bank,Colors.red);
+  restaurant(Icons.food_bank, Colors.red),
+  gps(Icons.gps_fixed, Colors.lightBlue);
+
 
   final IconData icon;
   final Color color;

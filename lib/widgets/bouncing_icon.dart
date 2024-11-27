@@ -52,6 +52,7 @@ class _BouncingIconState extends State<BouncingIcon> with SingleTickerProviderSt
             widget.icon,
             size: widget.size,
             color: widget.color,
+            shadows: const <Shadow>[Shadow(color: Colors.black, blurRadius: 15.0, offset: Offset(0, 5))],
           ),
         ),
       ),
